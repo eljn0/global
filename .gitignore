@@ -36,3 +36,6 @@ config.codekit3
 ### Sass ###
 .sass-cache/
 *.css.map
+
+user.email "eljngulyv@gmail.com"
+user.name "eljn0"
